@@ -1,0 +1,7 @@
+A simple bayesian network for calculating the joint
+probability of a sequence of factors to assess 
+a person's intelligence. See:
+
+Koller, Daphne, and Nir Friedman. Probabilistic Graphical Models: Principles and Techniques. Cambridge, MA: MIT, 2009. Print.
+
+Chap 3.2 
